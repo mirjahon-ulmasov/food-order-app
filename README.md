@@ -20,4 +20,6 @@ You will also see any lint errors in the console.
 
 ![r-2](https://user-images.githubusercontent.com/75676842/122669429-b718e280-d1d6-11eb-8818-dd41eba82cc6.png)
 
+## When you don't order anything
+
 ![r-3](https://user-images.githubusercontent.com/75676842/122669436-c39d3b00-d1d6-11eb-8497-5649a3441d72.png)
