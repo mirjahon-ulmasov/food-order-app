@@ -2,9 +2,7 @@
   list-style: none;
   margin: 0;
   padding: 0;
-  max-height: 20rem;
-  overflow: auto;
-  max-height: 20rem;
+  max-height: 15rem;
   overflow: scroll;
 }
 
@@ -44,4 +42,11 @@
 .actions .button {
   background-color: #d63031;
   color: #eee;
+}
+
+.ordered {
+  margin: 1rem;
+  font-size: 28px;
+  font-weight: 700;
+  color: #738673;
 }
